@@ -1,0 +1,7 @@
+claim_id,contract_id,occurrence_date,declaration_date,claim_type,damage_amount,indemnified_amount,status,expert_id,liability
+CLM_000001,CTR_001,26-11-2023,2023-12-02,Theft,15213.03€,10977.27€,Closed,EXP_013,Third_party
+CLM_000002,CTR_002,2025-08-26,28/08/2025,Fire,2321.55€,1030.68 EUR,Expert_review,EXP_013,Third_party
+CLM_000003,CTR_003,2024-10-25,2024-09-26,Fire,1762.45€,2119.97€,Closed,EXP_001,Third_party
+CLM_000004,CTR_004,01/02/2024,2024-02-10,Water damage,"1.250,00 EUR",,Open,,
+CLM_000005,CTR_005,2024-03-15,2024-03-18,Theft,980.50 €,,Pending,,Comprehensive
+CLM_000005,CTR_005,2024-03-15,2024-03-18,Theft,980.50 €,,Pending,,Comprehensive
